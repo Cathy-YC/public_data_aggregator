@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+scikit-learn
+langdetect
+googletrans==4.0.0-rc1
+pydantic
+redis
+snscrape
+python-dotenv
